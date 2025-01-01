@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/jtolds/gls"
+	"github.com/lxhandsome/gls"
 )
 
 func TestContexts(t *testing.T) {

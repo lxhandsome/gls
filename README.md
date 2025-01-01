@@ -75,7 +75,7 @@ need callers? Oh god no. No no no."
 
 ### Docs ###
 
-Please see the docs at http://godoc.org/github.com/jtolds/gls
+Please see the docs at http://godoc.org/github.com/lxhandsome/gls
 
 ### Related ###
 
